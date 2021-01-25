@@ -8,8 +8,7 @@
 - 💬 Reach me at https://www.linkedin.com/in/rebeccawang06
 - ⚡ Fun fact: Have a major Harry Potter obsession 
 
-[![Rebecca's github stats](https://github-readme-stats.vercel.app/api?username=rebeccawang06)](https://github.com/rebeccawang06/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebeccawang06&layout=compact)](https://github.com/rebeccawang06/github-readme-stats)
+[![Rebecca's github stats](https://github-readme-stats.vercel.app/api?username=rebeccawang06)(https://github-readme-stats.vercel.app/api/top-langs/?username=rebeccawang06&layout=compact](https://github.com/rebeccawang06/github-readme-stats)
 
 
 
