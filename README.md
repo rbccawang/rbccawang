@@ -6,7 +6,7 @@
 - 👯 Looking to collaborate on websites and chrome extension applications
 - ⚙️  Use  .java, .js, .html, .css
 - 💬 Reach me at https://www.linkedin.com/in/rebeccawang06
-- ⚡ Fun fact: Have a major Harry Potter obsession 
+- ⚡ Fun fact: Have a major Harry Potter obsession
 
 
 
