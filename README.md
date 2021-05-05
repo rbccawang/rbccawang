@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ I am Rebecca Wang, a full-stack developer from California. 
+✨ I am Rebecca Wang
 
 - 🌱 Working on Hydrangea Hacks (https://links.hydrangeahacks.tech/)
 - 👯 Looking to collaborate on websites and chrome extension applications
