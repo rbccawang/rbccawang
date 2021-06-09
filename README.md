@@ -2,7 +2,7 @@
 
 ✨ I am Rebecca Wang
 
-- 🌱 Working on Hydrangea Hacks (https://links.hydrangeahacks.tech/)
+- 🌱 Working on Hydrangea Hacks (https://hydrangeahacks.tech)
 - 💬 Reach me at https://www.linkedin.com/in/rebeccawang06
 - ⚡ Fun fact: I have a major Grishaverse & Harry Potter obsession
 
