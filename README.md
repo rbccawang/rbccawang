@@ -1,12 +1,11 @@
-### Hi there 👋
+# Hello! I'm Rebecca Wang 👋
 
-✨ I am Rebecca Wang
-
-- 🌱 Working on Hydrangea Hacks (https://hydrangeahacks.tech)
-- 💬 Reach me at https://www.linkedin.com/in/rebeccawang06
-- ⚡ Fun fact: I have a major Grishaverse & Harry Potter obsession
-
+## Things I like: 
+* [Hydrangea Hacks](http://hydrangeahacks.tech)
+* AI (ML) in Robotics & Computer Vision 
+* Binge reading the Grishaverse 
 
 
+### Reach me at my [LinkedIn](https://www.linkedin.com/in/rebeccawang06)
 
 [![Rebecca's github stats](https://github-readme-stats.vercel.app/api?username=rebeccawang06)](https://github.com/rebeccawang06/github-readme-stats)
