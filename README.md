@@ -8,4 +8,4 @@
 
 ### Reach me at my [LinkedIn](https://www.linkedin.com/in/rebeccawang06)
 
-[![Rebecca's github stats](https://github-readme-stats.vercel.app/api?username=rbccawang)](https://github.com/rebeccawang06/github-readme-stats)
+![Rebecca's github stats](https://github-readme-stats.vercel.app/api?username=rbccawang)
