@@ -2,8 +2,8 @@
 
 ## Things I like: 
 * [Hydrangea Hacks](http://hydrangeahacks.tech)
-* AI (ML) in Robotics & Computer Vision 
-* Binge reading the Grishaverse 
+<!-- * AI (ML) in Robotics & Computer Vision 
+* Binge reading the Grishaverse  -->
 
 
 ### Reach me at my [LinkedIn](https://www.linkedin.com/in/rbccawang)
