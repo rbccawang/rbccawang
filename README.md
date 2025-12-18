@@ -1,5 +1,2 @@
-# Hello, I'm Rebecca Wang.
-
-Reach me at [LinkedIn](https://www.linkedin.com/in/rbccawang).
-
+Reach out: [X](https://x.com/rbccawang) / [LinkedIn](https://www.linkedin.com/in/rbccawang/) / [Website](https://rbccawang.com/)
 
